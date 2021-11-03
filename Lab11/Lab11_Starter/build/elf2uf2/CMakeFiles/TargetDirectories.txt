@@ -1,0 +1,5 @@
+C:/Users/ashle/Documents/GitHub/labs-ashmauro-1/Lab11/Lab11_Starter/build/elf2uf2/CMakeFiles/elf2uf2.dir
+C:/Users/ashle/Documents/GitHub/labs-ashmauro-1/Lab11/Lab11_Starter/build/elf2uf2/CMakeFiles/edit_cache.dir
+C:/Users/ashle/Documents/GitHub/labs-ashmauro-1/Lab11/Lab11_Starter/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+C:/Users/ashle/Documents/GitHub/labs-ashmauro-1/Lab11/Lab11_Starter/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+C:/Users/ashle/Documents/GitHub/labs-ashmauro-1/Lab11/Lab11_Starter/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
